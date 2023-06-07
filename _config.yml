@@ -178,8 +178,8 @@ collections:
 
 announcements:
   enabled: true
-  news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  news_limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 # news_scrollable: true # adds a vertical scroll bar if there are more than 8 news items
 # news_limit: 15 # leave blank to include all the news in the `_news` folder
