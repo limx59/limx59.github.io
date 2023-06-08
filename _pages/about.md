@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Mingxuan Li** is a senior member of IEEE. He is currently a Ph.D. student in [The Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu) at [University of North Texas (UNT)](https://www.unt.edu/). His main research interests include SDN and Cloud Computing, and Heterogeneous Computing Scheduling Optimization.
+**Mingxuan Li** is a senior member of IEEE. He is currently a Ph.D. student in [The Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu) at [University of North Texas (UNT)](https://www.unt.edu/). His main research interests include Machine Learning and Cloud Computing, and Heterogeneous Computing Scheduling Optimization.
 
 Before joining UNT, he was a senior engineer in the Future Network Research Center at China Unicom Network Technology Research Institute from 2019 to 2022, and he worked as a senior engineer at China Unicom Cloud Data Co., Ltd. from 2017 to 2019, and worked as an R&D engineer at China Unicom Research Institute from 2008 to 2017.
 
