@@ -26,11 +26,11 @@ Organizer of Computing and Network Convergence Sub-Forum of OpenInfra Days China
 
 -----------------------
 
-**Technical Programm Committee (TPC) Member
+**Technical Programm Committee (TPC) Member**
 
 GSMA Mobile NFC CJK Workshop Leader
 
-Standards member of China Communications Association
+Standards member of China Communications Standards Association(CCSA)
 
 Bidding expert in communication infrastructure certified by Ministry of Industry and Information Technology
 
