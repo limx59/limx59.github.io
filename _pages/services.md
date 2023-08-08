@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /services1/
-title: Services1
+permalink: /services/
+title: Services
 nav: true
 nav_order: 5
 ---
@@ -17,8 +17,6 @@ CCF, Senior Member
 CIE, Senior Member
 
 CIC, Senior Member
-
-CCSA, Standards Member
 
 -----------------------
 
