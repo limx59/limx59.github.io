@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Submenus
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: activities
-      permalink: /activities/
+    - title: Activities
+      permalink: /Activities/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Projects
+      permalink: /Projects/
 ---
