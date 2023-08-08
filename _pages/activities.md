@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /Activities/
-title: Activities
+permalink: /activities/
+title: activities
 nav: false
 ---
 
+TBD
