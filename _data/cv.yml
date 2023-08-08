@@ -15,12 +15,8 @@
       institution: University of North Texas, Texas, United States
       year: 2023
       description:
-        - Cloud Native
-        - Distributed System
         - Serverless
-        - Heterogeneous computing
-        - Edge Computing
-        - AI and Machine Learning
+        - GAN
         - HPC
 
     - title: Master Degree
