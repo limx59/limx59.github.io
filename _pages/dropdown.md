@@ -8,6 +8,8 @@ children:
     - title: Activities
       permalink: /Activities/
     - title: divider
-    - title: Projects
-      permalink: /Projects/
+    - title: Patents
+      permalink: /Patents/
+    - title: Blog
+      permalink: /Blog/
 ---
