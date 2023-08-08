@@ -11,6 +11,6 @@ children:
     - title: Patents
       permalink: /Patents/
     - title: divider
-    - title: Blog
-      permalink: /blog/:year/:title/
+    - title: Repositories
+      permalink: /Repositories/
 ---
