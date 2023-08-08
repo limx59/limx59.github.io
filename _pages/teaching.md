@@ -40,13 +40,13 @@ Member of Openstack open source community
 
 **Journal Reviewer**
 
-2022,2021,2020:Information and Communications Technologies
+2022,2021,2020: Information and Communications Technologies
 
-2021:Telecommunications Science
+2021: Telecommunications Science
 
-2021:Frontiers of Data & Computing
+2021: Frontiers of Data & Computing
 
-2021:ZTE Technology Journal
+2021: ZTE Technology Journal
 
 
 
