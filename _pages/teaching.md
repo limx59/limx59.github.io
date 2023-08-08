@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/
-title: services
+title: Services
 nav: true
 nav_order: 5
 ---
@@ -21,6 +21,32 @@ CIC, Senior Member
 -----------------------
 
 **Open Source Community**
+
+Organizer of Computing and Network Convergence Sub-Forum of OpenInfra Days China 2021 (OpenInfra Days China 2021)
+
+-----------------------
+
+**Technical Programm Committee (TPC) Member
+
+GSMA Mobile NFC CJK Workshop Leader
+
+Standards member of China Communications Association
+
+Bidding expert in communication infrastructure certified by Ministry of Industry and Information Technology
+
+Member of Openstack open source community
+
+-----------------------
+
+**Journal Reviewer**
+
+2022,2021,2020:Information and Communications Technologies
+
+2021:Telecommunications Science
+
+2021:Frontiers of Data & Computing
+
+2021:ZTE Technology Journal
 
 
 
