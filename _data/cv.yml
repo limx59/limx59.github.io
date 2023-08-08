@@ -27,14 +27,14 @@
       institution: Beijing Jiaotong University, Beijing, China
       year: 2008
       description:
-        - title: Thesis： “Design and Realization of Test System for Generator Transformer Volt-ampere Characteristic Based on ARM”.
-        - title: Subject： Embedded System.
+        - <b>Thesis  “Design and Realization of Test System for Generator Transformer Volt-ampere Characteristic Based on ARM”.
+        - <b>Subject  Embedded System.
     - title: Bacholer Degree
       institution: Capital Normal University, Beijing, China
       year: 2004
       description:
-        - Thesis: Design and Reasearch of Digital-to-Analog Conversion System Based on Microcontroller.
-        - Subject: Analog electronic circuit
+        - <b>Thesis "Design and Reasearch of Digital-to-Analog Conversion System Based on Microcontroller".
+        - <b>Subject Analog electronic circuit
 
 - title: Experience
   type: time_table
