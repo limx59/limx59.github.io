@@ -10,6 +10,7 @@ children:
     - title: divider
     - title: Patents
       permalink: /Patents/
+    - title: divider
     - title: Blog
       permalink: /Blog/
 ---
