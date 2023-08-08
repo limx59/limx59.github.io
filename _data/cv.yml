@@ -49,7 +49,7 @@
         - title: Skills.
           contents:
             - Enterprise Standards, Bid evaluation expert, Industry Standards, Software Defined Networking, Kubernetes, ONF, Docker, Openstack, 5G, Serverless.
-            - Sub-description 2.
+
     - title: Cloud Architecte
       insititution: Department of Information, China Unicom
       year: 2018 - 2019
@@ -69,7 +69,7 @@
         - title: Skills.
           contents:
             - IPv6, Cloud Computing, 5G cloud infrastructure.
-        - 
+            
     - title: R & D Engineer
       institution: China Unicom Research Institute, Beijing, China.
       year: 2008 - 2017
