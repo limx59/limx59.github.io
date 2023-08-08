@@ -12,5 +12,5 @@ children:
       permalink: /Patents/
     - title: divider
     - title: Blog
-      permalink: /Blog/
+      permalink: /blog/:year/:title/
 ---
