@@ -25,14 +25,14 @@
       institution: Beijing Jiaotong University, Beijing, China
       year: 2008
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Design and Realization of Test System for Generator Transformer Volt-ampere Characteristic Based on ARM.
+        - Subject: Embedded System.
     - title: Bacholer Degree
       institution: Capital Normal University, Beijing, China
       year: 2004
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Design and Reasearch of Digital-to-Analog Conversion System Based on Microcontroller.
+        - Subject: Analog electronic circuit
 
 - title: Experience
   type: time_table
@@ -41,31 +41,51 @@
       institution: China Unicom Network Technology Research Institute, Beijing, China.
       year: 2019 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Lead the establishment of China Unicom Heterogeneous Computing Power Laboratory, engaged in research on new technologies and applications of heterogeneous computing power.
+        - Lead the application of cloud-network integration technology solutions in provincial branches.
+        - Cooperate with partners to release a white paper on cutting-edge technology of cloud-network integration.
+        - Lead the formulation of international standards, industry standards, and corporate standards.
+        - Lead the cloud-native application promotion team, responsible for promoting the cloud-native evolution of enterprise business systems and 5G telecom cloud.
+        - Implemented best practices to guide junior team members.
+        - Educated the general public on project progress and plans through public presentations and community discussions such as OpenStack, CNCF and ONF.
+        - title: Skills.
           contents:
-            - Sub-description 1.
+            - Enterprise Standards, Bid evaluation expert, Industry Standards, Software Defined Networking, Kubernetes, ONF, Docker, Openstack, 5G, Serverless.
             - Sub-description 2.
+    - title: Cloud Architecte
+      insititution: Department of Information, China Unicom
+      year: 2018 - 2019
+      description:
+        - Participate in the 5G IT working group, support telecom cloud planning and internal information system cloud migration promotion, and support application of the 5G commercial license.
+        - Support the cloud architects of the Information Department of China Unicom Headqquarters, as well as the cloud product solutions of the Enterprise Department.
+        - Support the edge cloud application scenario solution of the cloud game for the smart network center of China Unicom Groups.
+        - title: Skills.
+          contents:
+            - Industry solution, Bid evaluation expert, Public Cloud, Cloud Produce, Rancher Kubernetes Management, Software Defined Networking, Openstack, ITU Standards.
     - title: Cloud Architecte
       institution: China Unicom Cloud & Data Ltd Company, Beijing, China.
       year: 2017 - 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Cloud Architecte
-          insititution: Department of Information, China Unicom
+        - Participate in the design and promotion of the connection between China Unicom's public cloud (WoCloud) and Alibaba Cloud and Tencent Cloud to achieve a multi-cloud management architecture.
+        - Reviewed project specifications and design technology solutions that meet or exceed performance expectations.
+        - title: Skills.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-
+            - IPv6, Cloud Computing, 5G cloud infrastructure.
+        - 
     - title: R & D Engineer
       institution: China Unicom Research Institute, Beijing, China.
       year: 2008 - 2017
       description:
-        - Description 1.
-        - Description 2.
-
+        - Lead the completion of China Unicom's NFC-based directional push system business prototype system development.
+        - Independently developed IPTV middleware system adaption layer automation test suite based on CPPUNIT and Bugzilla.
+        - Based on PMIS 2.0, complete the application review and data collection of enterprise system research and development projects, and conduct PMIS system training for provincial branches.
+        - Collect mobile terminal sales data, organize business analysis reports for the group's senior management, and formulate sales strategies.
+        - Deploy enterprise-level cloud-native infrastructure platforms, DCOS, Kubernetes, and other technical prototype systems, and guide provincial branches to deploy production environments.
+        - Participate in the IPTV National Natural Science Foundation project, responsible for the development of a DRM certificate management system and client (Linux, IOS, Android)
+        - title: Skills.
+          contents:
+            - TI DSP, ARM Cortex-M, Bugzilla, IPTV, DCOS, Mesos, Apache Spark, Mobile Payment, DRM, CPPUNIT, Kubernetes, C/C++, Emmbedded Linux, Software Development, Big Data, 3G/4G/5G, Automation, Java, NFC
+            - sub-description 2.
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
       year: 1911 - 1917
