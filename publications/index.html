@@ -158,11 +158,11 @@
         <div class="author">
         
 
-        <em>Mingxuan Li</em>, CAO Chang, TANG Xiongyan, and
+        <em>Mingxuan Li</em>, Chang Cao, Xiongyan Tang, and
           <span class="more-authors" title="click to view 3 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '3 more authors' ? 'PANG Ran, LIU Ying, LIU Qiuyan' : '3 more authors';
+                var more_authors_text = element.text() == '3 more authors' ? 'Ran Pang, Ying Liu, Qiuyan Liu' : '3 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -217,11 +217,11 @@
         <div class="author">
         
 
-        LI Mingxuan, CHANG Pei, CUI Tong, and
+        <em>Mingxuan Li</em>, Pei Chang, Tong Cui, and
           <span class="more-authors" title="click to view 1 more author" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '1 more author' ? 'LI Zhaoxia' : '1 more author';
+                var more_authors_text = element.text() == '1 more author' ? 'Zhaoxia Li' : '1 more author';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -273,7 +273,7 @@
         <div class="author">
         
 
-        LI Mingxuan, CAO Chang, and YANG Jianjun</div>
+        <em>Mingxuan Li</em>, Chang Cao, and Jianjun Yang</div>
 
         <!-- Journal/Book title and date -->
         
@@ -305,7 +305,62 @@
 </ol>
 
   <h2 class="year">2020</h2>
-  <ol class="bibliography"></ol>
+  <ol class="bibliography"><li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">[J] JFDC 2020</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="mingxuan2020research" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Research on edge resource scheduling solutions for computing power network</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Mingxuan Li</em>, Chang Cao, Xiongyan Tang, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'Tao He, Jianfei Li, Qiuyan Liu' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Frontiers of Data and Domputing</em>, Jun 2020
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://www.jfdc.cnic.cn/EN/10.11871/jfdc.issn.2096-742X.2020.04.007" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.11871/jfdc.issn.2096-742X.2020.04.007"></span>
+              <span class="__dimensions_badge_embed__" data-doi="10.11871/jfdc.issn.2096-742X.2020.04.007" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>[Objective] This paper introduces a network organization method for computing power network to satisfy business needs, which is able to flexibly schedule and allocate computing resources among clouds, networks, and edge devices. This approach aims to schedule and manage a wider range of computing resources in a unified framework. At the edge of the network, due to the large number of embedded devices and their different architectures, it is difficult for the existing resource scheduling methods to meet the demand of computing power. [Methods] Starting from the computing network architecture and based on the cloud-native resource scheduling mechanism, a lightweight, multi-cluster hierarchical edge resource scheduling scheme is described. [Results] Based on the lightweight cloud-native platform, we successfully manage and deploy a massive amount of hetero-architecture edge devices inside computing power networks in a unified framework. [Limitations] As a unified resource scheduling platform for front-end equipment in the “cloud, edge, and end” designed for computing power networks, it is important to solve the problems of implementing cloud-side collaboration, deploying artificial intelligence algorithms in front-end embedded clusters and making front-end equipment more autonomy. [Conclusions] The front-end embedded resource scheduling solution for computing power networks can be widely used in the Internet of Things, Internet of Vehicles, smart cities and other fields to improve the autonomous processing capabilities of the front-end equipment, and solve other practical problems such as the lack of innovation capabilities and insufficient supports in intelligent industry of China.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
 
   <h2 class="year">2019</h2>
   <ol class="bibliography"></ol>
