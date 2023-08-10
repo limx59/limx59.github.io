@@ -121,6 +121,26 @@
       items: 
         - Outstanding Achievement Award of Telecom Big Data "Smart Award"
 
+- title: Standars
+  type: time_table
+  contents:
+    - year: 2021
+      items:
+        - GB/T 40692-2021, Information technology——Cloud computing——Joint computing reference architecture
+    - year: 2019
+      items:
+        - YD/T 3575-2019, Technical requirements of directional information push interactive platform based on near field communication technology[S]
+    - year: 2017
+      items:
+        - GB/T 34096-2017, Mobile payment——Test methods for contactless reader terminal based on 2.45 GHz range controlled conmunication technology[S]
+        - GB/T 33741-2017, Mobile payment—Technical requirements for contactless reader terminal based on 2.45 GHz range controlled communication technology[S]
+        - GB/T 33742-2017, Technical requirements for radio frequency interface of contactless reader based on 13.56 MHz and 2.45 GHz dual-frequency technology[S]
+        - GB/T 33736-2017, Mobile payment—Technical requirements for contactless radio frequency interface based on 2.45 GHz range controlled communication technology[S]
+        - GB/T 33737-2017, Mobile payment—Test methods for intellegent card based on 2.45 GHz RCC （range controlled communication） technology[S]
+        - GB/T 33739-2017, Test methods for radio frequency interface of contactless reader based on 13.56 MHz and 2.45 GHz dual-frequency technology[S]
+        - GB/T 33738-2017, Mobile payment—Technical requirements for intellegent card based on 2.45 GHz RCC（range controlled communication）technology[S]
+        - GB/T 33740-2017, Mobile payment—Test methods of contactless radio frequency interfacebased on 2.45 GHz range controlled communication technology[S]
+
 - title: Academic Interests
   type: nested_list
   contents:
