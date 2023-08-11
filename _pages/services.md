@@ -12,7 +12,7 @@ IEEE, Senior Member
 
 IEEE SA, Senior Member
 
-IEEE Yong Profession, Senior Member
+IEEE Young Professionals, Senior Member
 
 ACM, Professional Member
 
