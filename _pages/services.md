@@ -10,6 +10,10 @@ nav_order: 5
 
 IEEE, Senior Member
 
+IEEE SA, Senior Member
+
+IEEE Yong Profession, Senior Member
+
 ACM, Professional Member
 
 CCF, Senior Member
@@ -25,6 +29,8 @@ CIC, Senior Member
 Organizer of Computing and Network Convergence Sub-Forum of OpenInfra Days China 2021 (OpenInfra Days China 2021)
 
 LFN Akraino 2021
+
+OpenStack open source community 2017 - Present
 
 -----------------------
 
