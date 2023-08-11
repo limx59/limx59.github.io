@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: page
 permalink: /Awards/
-title: Awards/Grant
+title: Awards
 nav: true
 ---
 
