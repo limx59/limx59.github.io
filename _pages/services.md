@@ -47,3 +47,31 @@ The OpenInfra Days China 2020, 2021, 2022
 2021: Frontiers of Data & Computing
 
 2021: ZTE Technology Journal
+
+-----------------------
+
+**Consulting**
+
+GSMA Mobile NFC CJK Workshop
+
+Big data top-level design solutions for Anshun Municipal People's Governement, Guizhou Province
+
+Review of one-card technology standard of MInistry of Transport
+
+Review of mobile payment technology of the Interconnection Group of Ministry of Industry and Information Technology
+
+National Intellent Property Administration: Key technologies of short-distance wireless communication
+
+Planning: China Unicom 2015-2017 rolling business promotion project
+
+Planning: China Unicom 2014-2016 rolling business promotion project
+
+Planning: China Unicom mobile internet strategic planning
+
+Review of enterprise information construction of SASAC
+
+ITU FG digital finance
+
+ITU SG13 future network and cloud computing
+
+GSMA IMT2020
