@@ -13,4 +13,4 @@ Network 5.0 Leading Innovation and Technology Achievements "Computing Power Netw
 
 **Grant**
 
-PI, "EdgeFaaS Collaborative R&D for Open Edge Scenarios", Arkaraino LFN, **\$50,000**
+PI, "EdgeFaaS Collaborative R&D for Open Edge Scenarios", Arkaraino LFN, 2021, **\$50,000**
