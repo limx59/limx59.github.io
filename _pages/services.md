@@ -8,19 +8,19 @@ nav_order: 5
 
 **Professional Memberships**
 
-IEEE, Senior Member
+Senior Member, Institute of Electrical and Electronics Engineers(IEEE)
 
-IEEE SA, Senior Member
+Senior Member, Institute of Electrical and Electronics Engineers Standards Association(IEEE SA)
 
-IEEE Young Professionals, Senior Member
+Senior Member, IEEE Young Professionals
 
-ACM, Professional Member
+Professional Member, Association for Computing Machinery(ACM)
 
-CCF, Senior Member
+Senior Member, China Computer Federation(CCF)
 
-CIE, Senior Member
+Senior Member, Chinese Institute of Electronics(CIE)
 
-CIC, Senior Member
+Senior Member, China Institute of Communications(CIC)
 
 -----------------------
 
