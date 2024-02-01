@@ -13,4 +13,4 @@ Network 5.0 Leading Innovation and Technology Achievements "Computing Power Netw
 
 **Grant**
 
-PI, "EdgeFaaS Collaborative R&D for Open Edge Scenarios"[https://wiki.akraino.org/download/attachments/48496713/EdgeFaaS%20Collaborative%20R%26D%20for%20Open%20Edge%20Scenarios%20-%20English2.pdf?version=1&modificationDate=1631589957000&api=v2], Akraino LFN, 2021, **\$50,000**
+PI, ["EdgeFaaS Collaborative R&D for Open Edge Scenarios"](https://wiki.akraino.org/download/attachments/48496713/EdgeFaaS%20Collaborative%20R%26D%20for%20Open%20Edge%20Scenarios%20-%20English2.pdf?version=1&modificationDate=1631589957000&api=v2), Akraino LFN, 2021, **\$50,000**
